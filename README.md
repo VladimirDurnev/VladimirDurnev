@@ -12,29 +12,6 @@ TypeScript, Jest
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" />  
