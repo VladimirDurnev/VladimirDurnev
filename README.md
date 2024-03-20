@@ -1,5 +1,6 @@
 ### <div align="center">Hi there, I'm Vladimir, a frontend developer 👨‍💻</div>  
-  
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vladimir</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 - 🌱 My tech stack: React,
 Redux TK,
