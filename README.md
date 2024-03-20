@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer from Russia :ru:</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" />
+<img align="center" src="https://readme-typing-svg.demolab.com/?lines=Frontend+developer+from+Russia;Second+line+of+text" />
 
 
 <!--
