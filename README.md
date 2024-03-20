@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Vladimir, a frontend developer
+<h1 align="center">Hi there, I'm Vladimir
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 - 🌱 My tech stack: React,
