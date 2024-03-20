@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<img align="center" src="https://readme-typing-svg.demolab.com/?lines=Frontend+developer+from+Russia;Second+line+of+text" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+developer+from+Russia" />
+</p>
 
 
 <!--
