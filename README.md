@@ -2,7 +2,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer from Russia 🇷🇺</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" />
+
 
 <!--
 **VladimirDurnev/VladimirDurnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
