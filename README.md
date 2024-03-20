@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vladimir</a> 
+<h1 align="center">Hi there, I'm Vladimir</h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+developer+from+Russia" />
