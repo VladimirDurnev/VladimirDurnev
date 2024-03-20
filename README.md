@@ -12,7 +12,6 @@ TypeScript, Jest
 <br/>  
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirDurnev&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
-
