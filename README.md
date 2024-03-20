@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there, I'm Vladimir
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+developer+from+Russia" />
-</p>
+</h2>
 - 📞 Telegram: https://t.me/Durnev_Vladimir_Alexeevich  
   
 ### My tech stack:   
