@@ -15,7 +15,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>  
-
+<br/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirDurnev&hide_border=true&layout=compact" align="left" />
 
 </td><td valign="top" width="33%">
